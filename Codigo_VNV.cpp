@@ -13,7 +13,7 @@ const int bombaPin = 9;  // <-- bomba aqui
 // --- VARIÁVEIS ---
 long duracao;
 int distancia;
-int distanciaCritica = 5; // cm
+int distanciaCritica = 12; // cm
 
 void setup() {
   // LCD
